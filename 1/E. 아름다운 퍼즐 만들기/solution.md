@@ -21,9 +21,9 @@ way[y][x][mask] = dp[y][x][mask]를 만들 수 잇는 경우의 수.
      way[y][x+1][next_mask] = way[y][x][current_mask] + way[y][x+1][next_mask]
 
 
-시간 복잡도 O( nm * 2^m ) 
+시간 복잡도 O( nm * 4^m ) 
 
-공간 복잡도 O( 2^m )  메모리 제한 때문에 토글링 필요
+공간 복잡도 O( 4^m )  메모리 제한 때문에 토글링 필요
 
 
 
