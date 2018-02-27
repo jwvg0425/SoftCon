@@ -16,4 +16,4 @@
 - [F. 정원사](F.%20정원사) : 출제자 [onjo0127](https://acmicpc.net/user/onjo0127)
 - [G. 연산 최적화](G.%20연산%20최적화) : 출제자 [jwvg0425](https://acmicpc.net/user/jwvg0425)
 
-검수 및 문제 보강 : [veydpz](https://acmicpc.net/user/veydpz) 및 [sgc109](https://acmicpc.net/user/sgc109)
+검수 및 문제 보강 : [veydpz](https://acmicpc.net/user/veydpz), [sgc109](https://acmicpc.net/user/sgc109)
